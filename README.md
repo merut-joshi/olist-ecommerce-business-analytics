@@ -46,6 +46,7 @@ Analyzed revenue trends across months to identify changes in sales performance o
 Compared category-level revenue to identify categories contributing significantly to overall sales.
 
 ## Power BI Dashboard
+![Power BI Dashboard](PowerBI_Dashboard.png)
 
 The Power BI dashboard provides interactive analysis using:
 
