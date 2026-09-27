@@ -14,7 +14,7 @@ The analysis covers:
 - Monthly revenue trends
 - Average product price
 - Operational and fulfillment patterns
-- Business recommendations based on the analysis
+- Business recommendations based on the analysis.
 
 ## Tools & Technologies
 
